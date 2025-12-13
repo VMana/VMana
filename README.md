@@ -5,10 +5,11 @@
 <h3 align="center">Electronics & Communication Engineer | Embedded Systems | IoT Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/VMana/Profile_Template/blob/main/flags/lk.svg" alt="Sri Lanka" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/VMana/Profile_Template/main/flags/lk.svg" alt="Sri Lanka" width="24" height="24"/>
   &nbsp;
-  <img src="https://github.com/VMana/Profile_Template/blob/main/flags/au.svg" alt="Australia" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/VMana/Profile_Template/main/flags/au.svg" alt="Australia" width="24" height="24"/>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vmana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>

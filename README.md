@@ -5,10 +5,11 @@
 <h3 align="center">Electronics & Communication Engineer | Embedded Systems | IoT Enthusiast</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VMana/Profile_Template/main/flags/lk.svg" alt="Sri Lanka" width="24" height="24"/>
+  <img src="https://flagcdn.com/lk.svg" alt="Sri Lanka" width="32" height="24"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/VMana/Profile_Template/main/flags/au.svg" alt="Australia" width="24" height="24"/>
+  <img src="https://flagcdn.com/au.svg" alt="Australia" width="32" height="24"/>
 </p>
+
 
 
 <p align="center">
